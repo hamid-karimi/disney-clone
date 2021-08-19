@@ -1,6 +1,8 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<a href="https://disney-clone-7f95c.web.app/">Live Demo</a>
+
+This Project based on React Component Style, Redux and Firebase. 
 
 ## Available Scripts
 
